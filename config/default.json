@@ -1,6 +1,6 @@
 {
-    "appSecret": "8dc4f913edeb1d2addfe632b89694932",
+    "appSecret": "68afea3b8a7971302081eeb2fb95f6c6",
     "pageAccessToken": "EAANnO5rZCAPMBAPLJh35mYc5e72KjPBk2MegTghW93rNZCHZB5KxfLyDPCQMgQ0AtB688pyAZCIZB5xHpA3hpgnOkmjEAWL0ZAPpXy51S9SQUiLHI1rx74xFgeZBmZCuxOjvPgXbhLqzEwxZBmLdYa07yFbJcTBY4iiXCP5cnMgKFSdVbCOrIgAhgls1ZAIU0wCVMZD",
     "validationToken": "TOKEN",
-    "serverURL": "to_be_set_manually"
+    "serverURL": "https://fb-chat-demo.herokuapp.com/"
 }
